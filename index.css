@@ -39,6 +39,7 @@ body {
     padding: 6px 12px;
     color: #F9FAFB;
     font-family: "Karla", sans-serif;
+    font-size: large;
 }
 
 .line {
@@ -57,6 +58,7 @@ body {
     width: 200px;
     color: #34D399;
     font-family: "Karla", sans-serif;
+    font-size: large;
 }
 
 #second-password {
@@ -68,6 +70,7 @@ body {
     width: 200px;
     color: #34D399;
     font-family: "Karla", sans-serif;
+    font-size: large;
 }
 
 .buttons {
