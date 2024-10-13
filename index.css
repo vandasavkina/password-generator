@@ -1,0 +1,79 @@
+body {
+    margin: 0;
+    padding-left: 30px;
+    background-color: #1F2937;
+    color: #F9FAFB;
+    font-family: "Karla", sans-serif;
+}
+
+.container {
+    width: fit-content;
+}
+
+.title {
+    padding-top: 60px;
+    margin-bottom: 0;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.title2 {
+    color: #34D399;
+    font-size: 40px;
+    font-weight: 800;
+    margin-top: -6px;
+}
+
+.subtitle {
+    color: #D5D4D8;
+    font-weight: 300;
+    font-size: 22px;
+    margin-top: -16px;
+}
+
+.btn {
+    margin-top: 20px;
+    background-color: #34D399;
+    border: solid #34D399;
+    border-radius: 4px;
+    padding: 6px 12px;
+    color: #F9FAFB;
+    font-family: "Karla", sans-serif;
+}
+
+.line {
+    padding-top: 10px;
+    border-bottom: 1.5px solid #D5D4D8;
+    width:auto;
+    opacity: 0.1;
+}
+
+#first-password {
+    padding: 10px;
+    margin-right: 10px;
+    background-color: #273549;
+    border-radius: 4px;
+    border: #273549;
+    width: 200px;
+    color: #34D399;
+    font-family: "Karla", sans-serif;
+}
+
+#second-password {
+    padding: 10px;
+    margin-left: 10px;
+    background-color: #273549;
+    border-radius: 4px;
+    border: #273549;
+    width: 200px;
+    color: #34D399;
+    font-family: "Karla", sans-serif;
+}
+
+.buttons {
+    display: flex;
+    text-align: center;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+}
